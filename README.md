@@ -1,7 +1,5 @@
 "Human-Activity-Recognition-using-ResNet152"
-Human Action Recognition (HAR) is the technology used to recognize and classify human activities from video and/or still images. It is a form of computer vision technology that can be used to detect and analyses human motions and activities. It has applications in a wide range of fields, such as healthcare, sports, and security. Human activity recognition plays a significant role in human-to-human interaction and interpersonal relations
-
-Because it provides information about the identity of a person, their personality, and psychological state, it is difficult to extract.
+Human Action Recognition (HAR) is the technology used to recognize and classify human activities from video and/or still images. It is a form of computer vision technology that can be used to detect and analyses human motions and activities. It has applications in a wide range of fields, such as healthcare, sports, and security. Human activity recognition plays a significant role in human-to-human interaction and interpersonal relations Because it provides information about the identity of a person, their personality, and psychological state, it is difficult to extract.
 
 The human ability to recognize another person’s activities is one of the main subjects of study of the scientific areas of computer vision and machine learning. As a result of this research, many applications, including video surveillance systems, human-computer interaction, and robotics for human behavior characterization, require a multiple activity recognition system.
 
